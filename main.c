@@ -3,6 +3,10 @@
 #include <pcap.h>
 #include <netinet/in.h>
 #include <netinet/if_ether.h>
+#include <netinet/ip.h>
+#include <netinet/tcp.h>
+#include <netinet/udp.h>
+#include <arpa/inet.h>
 
 void my_packet_handler(
     u_char *args,
@@ -18,20 +22,22 @@ int main(int argc, char *argv[]) {
     pcap_t *handle;
     int timeout_limit = 10000; /* In milliseconds */
 
-    device = pcap_lookupdev(error_buffer);
-    if (device == NULL) {
-        printf("Error finding device: %s\n", error_buffer);
-        return 1;
-    }
+    // device = pcap_lookupdev(error_buffer);
+    // if (device == NULL) {
+    //     printf("Error finding device: %s\n", error_buffer);
+    //     return 1;
+    // }
 
-    /* Open device for live capture */
-    handle = pcap_open_live(
-            device,
-            BUFSIZ,
-            0,
-            timeout_limit,
-            error_buffer
-        );
+    // /* Open device for live capture */
+    // handle = pcap_open_live(
+    //         device,
+    //         BUFSIZ,
+    //         0,
+    //         timeout_limit,
+    //         error_buffer
+    //     );
+
+	handle = pcap_open_offline("iperf-mptcp-0-0.pcap", error_buffer);
     if (handle == NULL) {
          fprintf(stderr, "Could not open device %s: %s\n", device, error_buffer);
          return 2;
