@@ -37,8 +37,8 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
         return;
     }
 
-    printf("\n\nPacket capture length: %d\n", packet_header.caplen);
-    printf("Packet total length %d\n", packet_header.len);
+    // printf("\n\nPacket capture length: %d\n", packet_header.caplen);
+    // printf("Packet total length %d\n", packet_header.len);
     
     // Ethernet header
     struct ether_header *eth_header = (struct ether_header *) packet;
@@ -51,16 +51,16 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
            eth_header->ether_dhost[2], eth_header->ether_dhost[3],
            eth_header->ether_dhost[4], eth_header->ether_dhost[5]);
 
-	printf("Source MAC: %s\n", new_packet->src_mac);
-    printf("Destination MAC: %s\n", new_packet->dst_mac);
+	// printf("Source MAC: %s\n", new_packet->src_mac);
+    // printf("Destination MAC: %s\n", new_packet->dst_mac);
     
     // IP header
     struct ip *ip_header = (struct ip *) (packet + sizeof(struct ether_header));
 	strncpy(new_packet->src_ip, inet_ntoa(ip_header->ip_src), IP_ADDR_LEN - 1);
     strncpy(new_packet->dst_ip, inet_ntoa(ip_header->ip_dst), IP_ADDR_LEN - 1);
 
-    printf("Source IP: %s\n", new_packet->src_ip);
-    printf("Destination IP: %s\n", new_packet->dst_ip);
+    // printf("Source IP: %s\n", new_packet->src_ip);
+    // printf("Destination IP: %s\n", new_packet->dst_ip);
     
     // TCP header
     if (ip_header->ip_p == IPPROTO_TCP) {
@@ -69,9 +69,9 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
 		new_packet->src_port = ntohs(tcp_header->th_sport);
         new_packet->dst_port = ntohs(tcp_header->th_dport);
 		
-		printf("Protocol: %s\n", new_packet->protocol);
-        printf("Source Port: %d\n", new_packet->src_port);
-        printf("Destination Port: %d\n", new_packet->dst_port);
+		// printf("Protocol: %s\n", new_packet->protocol);
+        // printf("Source Port: %d\n", new_packet->src_port);
+        // printf("Destination Port: %d\n", new_packet->dst_port);
 
         // Check if it's HTTP traffic 
         if (ntohs(tcp_header->th_dport) == 80 || ntohs(tcp_header->th_sport) == 80) {
@@ -89,7 +89,7 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
                 strncpy(new_packet->http_method, "POST", HTTP_METHOD_LEN - 1);
             }
 
-			printf("HTTP Method: %s\n", new_packet->http_method);
+			// printf("HTTP Method: %s\n", new_packet->http_method);
 
             // Extract Host header
             const char *host_start = strstr(http_data, "Host: ");
@@ -101,7 +101,7 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
 					int final_len = host_len < HOST_LEN - 1 ? host_len : HOST_LEN - 1;
                     strncpy(new_packet->host, host_start, final_len);
                     new_packet->host[final_len] = '\0';
-                    printf("Host: %s\n", new_packet->host);
+                    // printf("Host: %s\n", new_packet->host);
                 }
             }
 
@@ -115,7 +115,7 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
 					int final_user_agent_len = user_agent_len < USER_AGENT_LEN - 1 ? user_agent_len : USER_AGENT_LEN - 1;
 					strncpy(new_packet->user_agent, user_agent_start, final_user_agent_len);
 					new_packet->user_agent[final_user_agent_len] = '\0';
-					printf("User-Agent: %s\n", new_packet->user_agent);
+					// printf("User-Agent: %s\n", new_packet->user_agent);
 				}
 			}
         }
@@ -125,9 +125,9 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
         new_packet->src_port = ntohs(udp_header->uh_sport);
         new_packet->dst_port = ntohs(udp_header->uh_dport);
         
-        printf("Protocol: %s\n", new_packet->protocol);
-        printf("Source Port: %d\n", new_packet->src_port);
-        printf("Destination Port: %d\n", new_packet->dst_port);
+        // printf("Protocol: %s\n", new_packet->protocol);
+        // printf("Source Port: %d\n", new_packet->src_port);
+        // printf("Destination Port: %d\n", new_packet->dst_port);
     }
 
 
@@ -142,13 +142,6 @@ void my_packet_handler(u_char *args, const struct pcap_pkthdr *packet_header, co
     return;
 }
 
-
-
-
-
-
-// ./a.out -i interface -o filename.txt
-// ./a.out -f fdfdfdfd.pacap -o filename.txt
 
 
 int handle_command_line(int argc, char *argv[])
@@ -192,11 +185,51 @@ pcap_t *get_interface_handler(char *handler_type, char *device)
 	return handle;
 }
 
+void *capture_packets_thread(void *arg) {
+    thread_data *data = (thread_data *)arg;
+    while (keep_running && (pcap_dispatch(data->handle, -1, my_packet_handler, (u_char *)data->queue) >= 0));
+    return NULL;
+}
+
+void *write_thread(void *arg) {
+    thread_data *data = (thread_data *)arg;
+
+    FILE *output_file = fopen(data->filename, "w");
+    if (output_file == NULL) {
+        fprintf(stderr, "Could not open output file %s\n", data->filename);
+        return NULL;
+    }
+
+    while (keep_running || !queue_is_empty(data->queue)) {
+        if (!queue_is_empty(data->queue)) {
+            t_packet *packet = dequeue(data->queue);
+
+            fprintf(output_file, "Source MAC: %s\n", packet->src_mac);
+            fprintf(output_file, "Destination MAC: %s\n", packet->dst_mac);
+            fprintf(output_file, "Source IP: %s\n", packet->src_ip);
+            fprintf(output_file, "Destination IP: %s\n", packet->dst_ip);
+            fprintf(output_file, "Protocol: %s\n", packet->protocol);
+            fprintf(output_file, "Source Port: %d\n", packet->src_port);
+            fprintf(output_file, "Destination Port: %d\n", packet->dst_port);
+            fprintf(output_file, "HTTP Method: %s\n", packet->http_method);
+            fprintf(output_file, "Host: %s\n", packet->host);
+            fprintf(output_file, "User-Agent: %s\n\n", packet->user_agent);
+
+            free(packet);
+        }
+    }
+
+    fclose(output_file);
+    return NULL;
+}
+
 
 int main(int argc, char *argv[]) {
 
 	char *filename;
 	t_queue queue;
+	pthread_t capture_tid, write_tid;
+    thread_data data;
 
 	if (handle_command_line(argc, argv) != 0)
 	{
@@ -217,13 +250,25 @@ int main(int argc, char *argv[]) {
 
 	signal(SIGINT, sigint_handler);
 
+	data.queue = &queue;
+    data.handle = handle;
+    data.filename = filename;
 
-    while (keep_running && (pcap_dispatch(handle, -1, my_packet_handler, (u_char *)&queue) >= 0));
+
+	// Create threads
+    pthread_create(&capture_tid, NULL, capture_packets_thread, &data);
+    pthread_create(&write_tid, NULL, write_thread, &data);
+
+
+	// Wait for threads to finish
+    pthread_join(capture_tid, NULL);
+    pthread_join(write_tid, NULL);
+
+
 
 	printf("Cleaning up...\n");
     while (!queue_is_empty(&queue)) {
         t_packet *packet = dequeue(&queue);
-        // Process or log the packet if needed
         free(packet);
     }
 
