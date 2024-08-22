@@ -9,11 +9,27 @@
 #include <arpa/inet.h>
 #include <string.h>
 #include <stdlib.h>
-#include <queue.h>
+#include "queue.h"
+#include <signal.h>
+
+
+typedef struct {
+    t_queue *queue;
+    pcap_t *handle;
+    char *filename;
+} thread_data;
 
 #define PACKET_BUFFER_SIZE 65535
 
-void print_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_queue *queue) {
+
+volatile sig_atomic_t keep_running = 1;
+
+void sigint_handler(int sig)
+{
+    keep_running = 0;
+}
+
+void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_queue *queue) {
 
 	t_packet *new_packet = (t_packet *)malloc(sizeof(t_packet));
     if (new_packet == NULL) {
@@ -122,7 +138,7 @@ void my_packet_handler(u_char *args, const struct pcap_pkthdr *packet_header, co
 {
 	t_queue	*queue = (t_queue *)args;
 
-    print_packet_info(packet_body, *packet_header, queue);
+    get_packet_info(packet_body, *packet_header, queue);
     return;
 }
 
@@ -180,6 +196,7 @@ pcap_t *get_interface_handler(char *handler_type, char *device)
 int main(int argc, char *argv[]) {
 
 	char *filename;
+	t_queue queue;
 
 	if (handle_command_line(argc, argv) != 0)
 	{
@@ -194,12 +211,23 @@ int main(int argc, char *argv[]) {
 		exit(EXIT_FAILURE);
 	}
 
-	t_queue queue;
+	
 
 	init_queue(&queue);
 
+	signal(SIGINT, sigint_handler);
 
-    pcap_loop(handle, 0, my_packet_handler, (u_char *)&queue);
+
+    while (keep_running && (pcap_dispatch(handle, -1, my_packet_handler, (u_char *)&queue) >= 0));
+
+	printf("Cleaning up...\n");
+    while (!queue_is_empty(&queue)) {
+        t_packet *packet = dequeue(&queue);
+        // Process or log the packet if needed
+        free(packet);
+    }
+
+	pcap_close(handle);
 
 
 

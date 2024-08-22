@@ -3,6 +3,7 @@
 
 #include <netinet/in.h>
 #include <stdlib.h>
+#include <pthread.h>
 
 
 #define MAC_ADDR_LEN 18
@@ -41,6 +42,7 @@ typedef struct s_queue
 {
 	t_queue_node	*front;
 	t_queue_node	*rear;
+	pthread_mutex_t mutex;
 }						t_queue;
 
 //  QUEUE
