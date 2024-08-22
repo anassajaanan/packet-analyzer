@@ -5,7 +5,7 @@ TARGET = packet_analyzer
 CC = gcc
 
 # Compiler flags
-CFLAGS = -Wall -g
+CFLAGS =  -Wall -g -Wno-incompatible-pointer-types
 
 # Libraries
 LIBS = -lpcap -lpthread
