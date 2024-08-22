@@ -44,7 +44,6 @@ void print_packet_info(const u_char *packet, struct pcap_pkthdr packet_header) {
             
             const char *http_data = (const char *)(packet + sizeof(struct ether_header) + sizeof(struct ip) + (tcp_header->th_off * 4));
 
-			// printf("%s\n", http_data);
             
             // Check for HTTP method (GET or POST)
             if (strncmp(http_data, "GET ", 4) == 0) {
@@ -56,7 +55,7 @@ void print_packet_info(const u_char *packet, struct pcap_pkthdr packet_header) {
             // Extract Host header
             const char *host_start = strstr(http_data, "Host: ");
             if (host_start) {
-                host_start += 6; // Move past "Host: "
+                host_start += 6;
                 const char *host_end = strchr(host_start, '\r');
                 if (host_end) {
                     printf("Host: %.*s\n", (int)(host_end - host_start), host_start);
