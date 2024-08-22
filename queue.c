@@ -1,5 +1,6 @@
 
 #include "queue.h"
+#include "packet_handler.h"
 
 void	init_queue(t_queue *q)
 {
@@ -8,7 +9,7 @@ void	init_queue(t_queue *q)
 	pthread_mutex_init(&q->mutex, NULL);
 }
 
-void	enqueue(t_queue *q, t_packet *packet)
+void	enqueue(t_queue *q, struct t_packet *packet)
 {
 	pthread_mutex_lock(&q->mutex);
 	struct s_queue_node	*new_node;
@@ -29,7 +30,7 @@ void	enqueue(t_queue *q, t_packet *packet)
 	pthread_mutex_unlock(&q->mutex);
 }
 
-t_packet *dequeue(t_queue *q)
+struct t_packet *dequeue(t_queue *q)
 {
 	pthread_mutex_lock(&q->mutex);
 	t_packet			*packet;
@@ -49,4 +50,13 @@ int	queue_is_empty(t_queue *q)
 	int is_empty = (q->front == NULL);
 	pthread_mutex_unlock(&q->mutex);
 	return (is_empty);
+}
+
+
+void	free_queue(t_queue *q)
+{
+	while (!queue_is_empty(q)) {
+        t_packet *packet = dequeue(&q);
+        free(packet);
+    }
 }

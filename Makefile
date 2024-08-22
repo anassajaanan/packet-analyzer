@@ -5,13 +5,13 @@ TARGET = packet_analyzer
 CC = gcc
 
 # Compiler flags
-CFLAGS = -Wall -Wextra -g
+CFLAGS = -Wall -g
 
 # Libraries
 LIBS = -lpcap -lpthread
 
 # Source files
-SRCS = main.c queue.c
+SRCS = main.c queue.c packet_handler.c threads_handler.c
 
 # Object files
 OBJS = $(SRCS:.c=.o)
@@ -30,6 +30,10 @@ clean:
 
 fclean: clean
 	rm -f $(TARGET)
+
+
+
+re: fclean all
 
 
 .PHONY: all clean
