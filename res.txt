@@ -1,0 +1,5272 @@
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 58
+Packet total length 58
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 215
+Packet total length 215
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+HTTP Method: GET
+Host: 1.1.12.1
+User-Agent: cisco-IOS
+
+
+Packet capture length: 310
+Packet total length 310
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 335
+Packet total length 335
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 566
+Packet total length 566
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 568
+Packet total length 568
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 588
+Packet total length 588
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 586
+Packet total length 586
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 480
+Packet total length 480
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 195
+Packet total length 195
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 430
+Packet total length 430
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 94
+Packet total length 94
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 560
+Packet total length 560
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 431
+Packet total length 431
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 123
+Packet total length 123
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 561
+Packet total length 561
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 431
+Packet total length 431
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 122
+Packet total length 122
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 431
+Packet total length 431
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 301
+Packet total length 301
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 562
+Packet total length 562
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 562
+Packet total length 562
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 554
+Packet total length 554
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 572
+Packet total length 572
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 196
+Packet total length 196
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 540
+Packet total length 540
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 490
+Packet total length 490
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 148
+Packet total length 148
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 142
+Packet total length 142
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 511
+Packet total length 511
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 109
+Packet total length 109
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 553
+Packet total length 553
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 587
+Packet total length 587
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 190
+Packet total length 190
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 456
+Packet total length 456
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 524
+Packet total length 524
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 590
+Packet total length 590
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 192
+Packet total length 192
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 60
+Packet total length 60
+Source MAC: c0:02:12:68:00:00
+Destination MAC: c0:01:14:7c:00:01
+Source IP: 1.1.23.3
+Destination IP: 1.1.12.1
+Protocol: TCP
+Source Port: 46557
+Destination Port: 80
+
+
+Packet capture length: 54
+Packet total length 54
+Source MAC: c0:01:14:7c:00:01
+Destination MAC: c0:02:12:68:00:00
+Source IP: 1.1.12.1
+Destination IP: 1.1.23.3
+Protocol: TCP
+Source Port: 80
+Destination Port: 46557
