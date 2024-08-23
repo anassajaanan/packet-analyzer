@@ -57,7 +57,7 @@ static connection_info *find_or_create_connection(uint32_t src_ip, uint32_t dst_
 
 
 
-void process_tcp_packet(struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header)
+void process_tcp_packet(const struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header)
 {
     connection_info *conn = find_or_create_connection(
         ip_header->ip_src.s_addr, ip_header->ip_dst.s_addr,
@@ -66,18 +66,39 @@ void process_tcp_packet(struct pcap_pkthdr *header, const struct ip *ip_header, 
 
     if (!conn) return;
 
-    if (conn->packets_in == 0 && conn->packets_out == 0) {
-        conn->start_time.tv_sec = header->ts.tv_sec;
-        conn->start_time.tv_nsec = header->ts.tv_usec * 1000;
-    }
-    
-	conn->last_time.tv_sec = header->ts.tv_sec;
-    conn->last_time.tv_nsec = header->ts.tv_usec * 1000;
 
-    if (tcp_header->th_flags & TH_SYN) {
+    if (ip_header->ip_src.s_addr == conn->src_ip) {
         conn->packets_out++;
-    } else if (tcp_header->th_flags & (TH_FIN | TH_RST)) {
+    } else {
         conn->packets_in++;
+    }
+
+    // Update timestamps
+    struct timespec current_time;
+    current_time.tv_sec = header->ts.tv_sec;
+    current_time.tv_nsec = header->ts.tv_usec * 1000; //convert it to nano secs
+
+    if (conn->packets_in + conn->packets_out == 1) {
+        // First packet of the connection
+        conn->start_time = current_time;
+    }
+    conn->last_time = current_time;
+
+    // Check for connection termination
+    if (tcp_header->th_flags & (TH_FIN | TH_RST)) {
+        long duration_ms = (conn->last_time.tv_sec - conn->start_time.tv_sec) * 1000 +
+                           (conn->last_time.tv_nsec - conn->start_time.tv_nsec) / 1000000;
+
+        // Print connection information
+        printf("Connection terminated: %s:%d -> %s:%d\n",
+               inet_ntoa((struct in_addr){conn->src_ip}),
+               conn->src_port,
+               inet_ntoa((struct in_addr){conn->dst_ip}),
+               conn->dst_port);
+        printf("  Duration: %ld milliseconds\n", duration_ms);
+        printf("  Packets IN: %u, OUT: %u\n", conn->packets_in, conn->packets_out);
+
+        //mark it innactive
         conn->is_active = 0;
     }
 }
@@ -108,6 +129,8 @@ void cleanup_connections()
         }
     }
 }
+
+
 
 
 void free_connection_tracker()
