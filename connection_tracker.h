@@ -19,6 +19,7 @@ typedef struct {
 
 
 void init_connection_tracker();
-connection_info *find_or_create_connection(uint32_t src_ip, uint32_t dst_ip, uint16_t src_port, uint16_t dst_port);
+void process_tcp_packet(struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header);
+
 
 #endif // CONNECTION_TRACKER_H

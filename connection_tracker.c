@@ -5,6 +5,9 @@
 #include <netinet/ip.h>
 #include <netinet/tcp.h>
 #include <arpa/inet.h>
+#include <pcap.h>
+#include <netinet/ip.h>
+#include <netinet/tcp.h>
 
 #define HASH_SIZE 65536
 
@@ -58,4 +61,31 @@ static connection_info *find_or_create_connection(uint32_t src_ip, uint32_t dst_
     hash_table[hash] = entry;
 
     return &entry->info;
+}
+
+
+
+void process_tcp_packet(struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header)
+{
+    connection_info *conn = find_or_create_connection(
+        ip_header->ip_src.s_addr, ip_header->ip_dst.s_addr,
+        ntohs(tcp_header->th_sport), ntohs(tcp_header->th_dport)
+    );
+
+    if (!conn) return;
+
+    if (conn->packets_in == 0 && conn->packets_out == 0) {
+        conn->start_time.tv_sec = header->ts.tv_sec;
+        conn->start_time.tv_nsec = header->ts.tv_usec * 1000;
+    }
+    
+	conn->last_time.tv_sec = header->ts.tv_sec;
+    conn->last_time.tv_nsec = header->ts.tv_usec * 1000;
+
+    if (tcp_header->th_flags & TH_SYN) {
+        conn->packets_out++;
+    } else if (tcp_header->th_flags & (TH_FIN | TH_RST)) {
+        conn->packets_in++;
+        conn->is_active = 0;
+    }
 }
