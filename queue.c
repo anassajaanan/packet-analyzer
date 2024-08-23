@@ -59,4 +59,5 @@ void	free_queue(t_queue *q)
         t_packet *packet = dequeue(&q);
         free(packet);
     }
+	pthread_mutex_destroy(&(q->mutex));
 }
