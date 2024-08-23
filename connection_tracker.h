@@ -18,4 +18,6 @@ typedef struct {
 
 
 
+void init_connection_tracker();
+
 #endif // CONNECTION_TRACKER_H
