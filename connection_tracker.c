@@ -59,15 +59,20 @@ static connection_info *find_or_create_connection(uint32_t src_ip, uint32_t dst_
 
 void process_tcp_packet(const struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header)
 {
-    connection_info *conn = find_or_create_connection(
-        ip_header->ip_src.s_addr, ip_header->ip_dst.s_addr,
-        ntohs(tcp_header->th_sport), ntohs(tcp_header->th_dport)
-    );
+
+	uint32_t src_ip = ip_header->ip_src.s_addr;
+    uint32_t dst_ip = ip_header->ip_dst.s_addr;
+    uint16_t src_port = ntohs(tcp_header->th_sport);
+    uint16_t dst_port = ntohs(tcp_header->th_dport);
+
+
+    connection_info *conn = find_or_create_connection(src_ip, dst_ip, src_port, dst_port);
 
     if (!conn) return;
 
 
-    if (ip_header->ip_src.s_addr == conn->src_ip) {
+    // Update packet counts
+    if (src_ip == conn->src_ip && src_port == conn->src_port) {
         conn->packets_out++;
     } else {
         conn->packets_in++;

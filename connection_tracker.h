@@ -29,7 +29,7 @@ typedef struct {
 
 
 void init_connection_tracker();
-void process_tcp_packet(struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header);
+void process_tcp_packet(const struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header);
 void cleanup_connections();
 void free_connection_tracker();
 #endif // CONNECTION_TRACKER_H
