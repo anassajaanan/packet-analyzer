@@ -1,4 +1,5 @@
 #include "packet_handler.h"
+#include "connection_tracker.h"
 
 
 void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_queue *queue) {
@@ -89,6 +90,11 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
 				}
 			}
         }
+
+
+		// start Tracking this TCP connection
+		process_tcp_packet(&packet_header, ip_header, tcp_header);
+
     } else if (ip_header->ip_p == IPPROTO_UDP) {
         struct udphdr *udp_header = (struct udphdr *)(packet + sizeof(struct ether_header) + sizeof(struct ip));
         strncpy(new_packet->protocol, "UDP", PROTOCOL_LEN - 1);

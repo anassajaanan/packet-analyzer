@@ -1,13 +1,5 @@
 #include "connection_tracker.h"
-#include <stdlib.h>
-#include <string.h>
-#include <stdio.h>
-#include <netinet/ip.h>
-#include <netinet/tcp.h>
-#include <arpa/inet.h>
-#include <pcap.h>
-#include <netinet/ip.h>
-#include <netinet/tcp.h>
+
 
 #define HASH_SIZE 65536
 
@@ -98,15 +90,14 @@ void cleanup_connections()
         while (*pp) {
             hash_entry *entry = *pp;
             if (!entry->info.is_active) {
-                struct timespec duration;
-                timespecsub(&entry->info.last_time, &entry->info.start_time, &duration);
+                double duration = difftime(entry->info.last_time.tv_sec, entry->info.start_time.tv_sec);
 
                 printf("Connection closed: %s:%d -> %s:%d\n",
                        inet_ntoa((struct in_addr){entry->info.src_ip}),
                        entry->info.src_port,
                        inet_ntoa((struct in_addr){entry->info.dst_ip}),
                        entry->info.dst_port);
-                printf("  Duration: %ld.%09ld seconds\n", duration.tv_sec, duration.tv_nsec);
+                printf("  Duration: %.3f seconds\n", duration);
                 printf("  Packets IN: %u, OUT: %u\n", entry->info.packets_in, entry->info.packets_out);
 
                 *pp = entry->next;

@@ -3,6 +3,16 @@
 
 #include <stdint.h>
 #include <time.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+#include <netinet/ip.h>
+#include <netinet/tcp.h>
+#include <arpa/inet.h>
+#include <pcap.h>
+#include <netinet/ip.h>
+#include <netinet/tcp.h>
+#include <sys/time.h>
 
 typedef struct {
     uint32_t src_ip;

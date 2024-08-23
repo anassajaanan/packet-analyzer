@@ -11,7 +11,7 @@ CFLAGS =  -Wall -g -Wno-incompatible-pointer-types
 LIBS = -lpcap -lpthread
 
 # Source files
-SRCS = main.c queue.c packet_handler.c threads_handler.c
+SRCS = main.c queue.c packet_handler.c threads_handler.c connection_tracker.c
 
 # Object files
 OBJS = $(SRCS:.c=.o)
