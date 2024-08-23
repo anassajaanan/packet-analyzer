@@ -19,5 +19,6 @@ typedef struct {
 
 
 void init_connection_tracker();
+connection_info *find_or_create_connection(uint32_t src_ip, uint32_t dst_ip, uint16_t src_port, uint16_t dst_port);
 
 #endif // CONNECTION_TRACKER_H
