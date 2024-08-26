@@ -56,6 +56,23 @@ static connection_info *find_or_create_connection(uint32_t src_ip, uint32_t dst_
 }
 
 
+static void remove_connection(connection_info *conn)
+{
+    uint32_t hash = hash_function(conn->src_ip, conn->dst_ip, conn->src_port, conn->dst_port);
+    hash_entry **pp = &hash_table[hash];
+
+    while (*pp) {
+        hash_entry *entry = *pp;
+        if (&entry->info == conn) {
+            *pp = entry->next;
+            free(entry);
+            return;
+        }
+        pp = &entry->next;
+    }
+}
+
+
 
 void process_tcp_packet(const struct pcap_pkthdr *header, const struct ip *ip_header, const struct tcphdr *tcp_header)
 {
@@ -105,6 +122,9 @@ void process_tcp_packet(const struct pcap_pkthdr *header, const struct ip *ip_he
 
         //mark it innactive
         conn->is_active = 0;
+
+		// remove connection to save some space
+		remove_connection(conn);
     }
 }
 
