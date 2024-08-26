@@ -10,6 +10,8 @@ void get_packet_info(const u_char *packet, struct pcap_pkthdr packet_header, t_q
         return;
     }
 
+	memset(new_packet, 0, sizeof(t_packet));
+
     // printf("\n\nPacket capture length: %d\n", packet_header.caplen);
     // printf("Packet total length %d\n", packet_header.len);
     

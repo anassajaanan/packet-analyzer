@@ -5,7 +5,10 @@ TARGET = packet_analyzer
 CC = gcc
 
 # Compiler flags
-CFLAGS =  -Wall -g -Wno-incompatible-pointer-types
+# CFLAGS =   -fsanitize=thread -static-libtsan
+
+CFLAGS = -Wall -g3 -Wno-incompatible-pointer-types -fsanitize=address
+LDFLAGS = -fsanitize=address
 
 # Libraries
 LIBS = -lpcap -lpthread
@@ -20,7 +23,7 @@ OBJS = $(SRCS:.c=.o)
 all: $(TARGET)
 
 $(TARGET): $(OBJS)
-	$(CC) $(CFLAGS) -o $(TARGET) $(OBJS) $(LIBS)
+	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS) $(LIBS)
 
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
