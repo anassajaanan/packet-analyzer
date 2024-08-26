@@ -7,7 +7,7 @@
 
 
 
-
+pcap_t *handle = NULL;
 
 volatile sig_atomic_t keep_running = 1;
 
@@ -15,6 +15,9 @@ void sigint_handler(int sig)
 {
 	(void)sig;
     keep_running = 0;
+
+	// Break pcap_dispatch loop
+    pcap_breakloop(handle);
 }
 
 
@@ -65,7 +68,6 @@ int main(int argc, char *argv[]) {
 	char *filename;
 	t_queue queue;
 	pthread_t capture_tid, write_tid;
-    thread_data data;
 
 	if (handle_command_line(argc, argv) != 0)
 	{
@@ -74,7 +76,7 @@ int main(int argc, char *argv[]) {
 
 	filename = argv[4];
 
-	pcap_t *handle = get_interface_handler(argv[1], argv[2]);
+	handle = get_interface_handler(argv[1], argv[2]);
 	if (handle == NULL)
 	{
 		exit(EXIT_FAILURE);
@@ -84,12 +86,20 @@ int main(int argc, char *argv[]) {
 
 	init_queue(&queue);
 
-	signal(SIGINT, sigint_handler);
+	// signal(SIGINT, sigint_handler);
 
-	data.queue = &queue;
-    data.handle = handle;
-    data.filename = filename;
+	thread_data data = {
+        .queue = &queue,
+        .handle = handle,
+        .filename = filename,
+        .keep_running = &keep_running
+    };
 
+	// Set up signal handling
+    struct sigaction sa;
+    memset(&sa, 0, sizeof(sa));
+    sa.sa_handler = sigint_handler;
+    sigaction(SIGINT, &sa, NULL);
 
 	// Create threads
     pthread_create(&capture_tid, NULL, capture_packets_thread, &data);
