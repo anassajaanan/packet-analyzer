@@ -36,7 +36,7 @@ void *write_thread(void *arg) {
                 free(packet);
             }
         } else {
-            // Sleep briefly to avoid busy-waiting
+            // reduce CPU usage because Quiue is empty
             usleep(1000); // Sleep for 1 millisecond
         }
     }

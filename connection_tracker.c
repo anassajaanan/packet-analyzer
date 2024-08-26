@@ -129,37 +129,10 @@ void process_tcp_packet(const struct pcap_pkthdr *header, const struct ip *ip_he
 }
 
 
-void cleanup_connections()
-{
-    for (int i = 0; i < HASH_SIZE; i++) {
-        hash_entry **pp = &hash_table[i];
-        while (*pp) {
-            hash_entry *entry = *pp;
-            if (!entry->info.is_active) {
-                double duration = difftime(entry->info.last_time.tv_sec, entry->info.start_time.tv_sec);
-
-                printf("Connection closed: %s:%d -> %s:%d\n",
-                       inet_ntoa((struct in_addr){entry->info.src_ip}),
-                       entry->info.src_port,
-                       inet_ntoa((struct in_addr){entry->info.dst_ip}),
-                       entry->info.dst_port);
-                printf("  Duration: %.3f seconds\n", duration);
-                printf("  Packets IN: %u, OUT: %u\n", entry->info.packets_in, entry->info.packets_out);
-
-                *pp = entry->next;
-                free(entry);
-            } else {
-                pp = &entry->next;
-            }
-        }
-    }
-}
-
-
-
 
 void free_connection_tracker()
 {
+	printf("function: free_connection_tracker\n");
     for (int i = 0; i < HASH_SIZE; i++) {
         hash_entry *entry = hash_table[i];
         while (entry) {

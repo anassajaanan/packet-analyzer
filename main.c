@@ -114,9 +114,6 @@ int main(int argc, char *argv[]) {
 
 	printf("Cleaning up...\n");
 
-	// Add cleanup_connections here
-    cleanup_connections();
-
     free_queue(&queue);
 	free_connection_tracker();
 
